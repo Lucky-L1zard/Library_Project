@@ -1,0 +1,9 @@
+# .NET Core / Visual Studio ignore
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+*.lock.json
