@@ -7,3 +7,6 @@
 *.sln.docstates
 .vs/
 *.lock.json
+*.editorconfig
+*.cache
+*.json
